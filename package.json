@@ -6,7 +6,9 @@
   "dependencies": {
     "css-loader": "^0.26.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "style-loader": "^0.13.1"
+  },
   "scripts": {
     "test": "npm start"
   },
