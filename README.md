@@ -37,3 +37,17 @@ webpack
 ```
 
 on the CLI.
+
+##### Pretty output
+
+```
+webpack --progress --colors
+```
+
+##### Watch mode
+
+```
+webpack --progress --colors --watch
+```
+
+don't need to manually recompile every time after each change 
