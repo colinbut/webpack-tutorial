@@ -1,0 +1,26 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "description": "webpack 1 tutorial",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.26.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/webpack-tutorial.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/colinbut/webpack-tutorial#readme"
+}
