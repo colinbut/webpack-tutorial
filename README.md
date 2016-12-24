@@ -23,3 +23,17 @@ webpack ./entry.js bundle.js --module-bind 'css=style!css'
 ```
 
 See code example of what needs to be done... to allow above to work...
+
+##### webpack config file
+
+`webpack.config.js` file
+
+which lists the webpack configurations.
+
+Can now just run:
+
+```
+webpack
+```
+
+on the CLI.
